@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "Medium inspired blogging theme for Stackbit",
     "layout_style": "grid",
-    "palette": "black",
+    "palette": "blue",
     "header": {
         "title": "Ampersand",
         "logo_img": "images/logo.png",
